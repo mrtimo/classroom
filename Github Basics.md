@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-Please fork this and add your startup name and idea
-
-Name | Description
-ProduceBuddy | Alerts about flash sales of healthy food in your local area
-Crowdsource Outdoors | Crowdsourcing the outdoor recreation industry
-<<<<<<< HEAD
-Grocery Guide | Helps user find items in the grocery store
-=======
-Brachyon | Platform for competitive gaming
-DroidSploit | Framework for mobile exploitation tools on the Android OS
-Time Capsule | Geolocated media in your surroundings
->>>>>>> master
-=======
 ## Introduction
 Github was built as a web front end for git hosted solutions. 
 > What is git? Git enables you to edit code at the same time as other people. It is like google docs for code. 
@@ -42,4 +28,3 @@ Github has it's own lingo. Here is are some of the common terms used on github:
 6. Fork one of these http://jlord.us/blog/fork-n-go, and then edit this document again (as you did in step 2), adding a link to your page on the last line.
 
 [Tim Olsen] (https://github.com/mrtimo/Hello/blob/master/README.md)
->>>>>>> master
