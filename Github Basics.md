@@ -28,3 +28,4 @@ Github has it's own lingo. Here is are some of the common terms used on github:
 6. Fork one of these http://jlord.us/blog/fork-n-go, and then edit this document again (as you did in step 2), adding a link to your page on the last line.
 
 [Tim Olsen] (https://github.com/mrtimo/Hello/blob/master/README.md)
+[David Ruggerone](https://github.com/Cappada/Hello/blob/master/README.md)
