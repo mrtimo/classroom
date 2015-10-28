@@ -26,3 +26,5 @@ Github has it's own lingo. Here is are some of the common terms used on github:
 4. Create a github page of your own (Read about "github pages")
 5. Learn about fork-n-go [https://github.com/jlord/sheetsee.js/blob/master/docs/fork-n-go.md] and fork someones github page as your own.
 6. Fork one of these http://jlord.us/blog/fork-n-go, and then edit this document again (as you did in step 2), adding a link to your page on the last line.
+
+[Tim Olsen] (https://github.com/mrtimo/Hello/blob/master/README.md)
